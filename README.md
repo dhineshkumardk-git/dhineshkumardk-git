@@ -66,50 +66,6 @@ public class DhineshKumar {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/dhineshkumardk-git">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhineshkumarkd10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/dhineshkumarkd10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhineshkumarkd10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhineshkumardk-git&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhineshkumardk-git&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dhineshkumardk-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -194,7 +150,7 @@ public class DhineshKumar {
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 Bachelor of Computer Applications (BCA) | Dr. G.R. Damodaran College of Science | 2023 – 2026 | 63.04% (Ongoing) |
+| 🎓 Bachelor of Computer Applications (BCA) | Dr. G.R. Damodaran College of Science | 2023 – 2026 | 64.43 |
 | 📘 HSC (Class XII) — CBSE | Paavai Vidhyashram School | 2022 – 2023 | 66% |
 | 📗 SSLC (Class X) — CBSE | Trinity International School | 2020 – 2021 | 60.8% |
 
@@ -208,7 +164,7 @@ public class DhineshKumar {
 🤖 Deep Learning         →  CNNs, Object Detection, Transfer Learning
 👁️ Computer Vision       →  YOLOv8, OpenCV, Image Segmentation
 🌐 Full Stack Dev         →  Java Servlets, REST APIs, Responsive Design
-🗄️ Database Design        →  MySQL Optimization, Schema Design
+🗄️ Database Design        →  MySQL Optimization
 📊 Data Science           →  Pandas, NumPy
 ```
 
