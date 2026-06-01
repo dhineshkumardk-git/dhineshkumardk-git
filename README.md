@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhinesh%20Kumar%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Deep%20Learning%20Enthusiast&descAlignY=62&descSize=16" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Dhinesh%20Kumar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" />
+</p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhinesh+Kumar+K+%F0%9F%91%8B;Full+Stack+Developer+%7C+Spring+Boot+%2B+React;Deep+Learning+%7C+YOLOv8+%7C+TensorFlow;Building+Impactful+Software+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Dhinesh+Kumar+K+%F0%9F%91%8B;Full+Stack+Developer+%7C+Spring+Boot+%2B+React;Building+Impactful+Software+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,67 +80,6 @@ public class DhineshKumar {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/dhineshkumardk-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhineshkumardk-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/dhineshkumardk-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhineshkumardk-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhineshkumardk-git&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Dhinesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhineshkumardk-git&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhineshkumardk-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary>🎓 <strong>Dr. G.R.Damodaran College of Science</strong> — BCA Student Developer · 2023 – 2026 · Coimbatore, Tamil Nadu</summary>
-
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-- 🚗 Built a **deep learning Vehicle Re-ID & LPR system** using YOLOv8 + CNN achieving real-world license plate extraction with EasyOCR
-- 🏥 Delivered a **full-featured Hospital Appointment Booking Website** with form validation, doctor profiles, and responsive UI using HTML/CSS/JS/Vite
-- 🌐 Designed and deployed a **Personal Portfolio Website** in React.js with smooth scrolling, resume download, and full mobile responsiveness
-- 📜 Completed **7 certifications** spanning Full Stack Java, Arduino IoT, Cybersecurity (CISCO), and Digital Marketing
-
-</details>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -189,9 +130,8 @@ public class DhineshKumar {
 ```
 🌱 Spring Boot     → REST APIs · MVC · JPA · Hibernate · Security
 ⚛️  React.js       → Hooks · Context API · Redux · React Router
-🤖 Deep Learning  → YOLOv8 · CNN Architectures · Transfer Learning
 🛢️  MySQL          → Query Optimization · Stored Procedures · Joins
-🔐 Cybersecurity  → Network Security · Ethical Hacking Fundamentals
+🔐 Cybersecurity  → Network Security ·
 ```
 
 ---
