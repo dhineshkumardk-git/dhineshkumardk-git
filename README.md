@@ -28,11 +28,8 @@ public class DhineshKumar {
 
     String[] currentlyLearning = {
         "Spring Boot REST APIs",
-        "React Advanced Patterns",
-        "Deep Learning (YOLOv8 / CNN)"
+        "React Advanced Patterns"
     };
-
-    String funFact = "I trained a CNN to spot license plates 🚗📷";
 
     String motto() {
         return "Build fast. Learn faster. Ship smarter.";
